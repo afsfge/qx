@@ -1,2 +1,4 @@
-let url = 'https://www.speedtest.net';
-$done($httpClient.get(url));
+$done($httpClient.get({
+  url: "http://cp.cloudflare.com/generate_204",
+  policy: 🤡 warp
+}));
