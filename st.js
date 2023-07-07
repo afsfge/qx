@@ -1,4 +1,4 @@
-$done($httpClient.get({
+$done($httpClient.post({
   url: "http://cp.cloudflare.com/generate_204",
-  policy: 🤡 warp
+  policy:"🤡WARP"
 }));
