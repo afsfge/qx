@@ -1,8 +1,8 @@
-$httpClient.head({
+$httpClient.get({
   url: "http://cp.cloudflare.com/generate_204",
   policy:"🤡WAP-HK"
 });
-$httpClient.head({
+$httpClient.get({
   url: "http://cp.cloudflare.com/generate_204",
   policy:"🤡WAP-US"
 });
