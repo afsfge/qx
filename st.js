@@ -1,9 +1,9 @@
-$httpClient.head({
+$httpClient.post({
   url: "http://cp.cloudflare.com/generate_204",
   policy:"🤡WRP-HK"
 });
 
-$httpClient.head({
+$httpClient.post({
   url: "http://cp.cloudflare.com/generate_204",
   policy:"🤡WRP-US"
 });
