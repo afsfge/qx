@@ -1,0 +1,7 @@
+DOMAIN,apt.procurs.us
+DOMAIN-SUFFIX,sony.com
+DOMAIN,api.wcc.best
+DOMAIN,apt.thebigboss.org
+DOMAIN-SUFFIX,initnil.com
+DOMAIN-SUFFIX,jetbrains.com
+DOMAIN,nssurge.com
